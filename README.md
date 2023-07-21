@@ -1,9 +1,9 @@
 ![profile](https://github.com/hooniegit/hooniegit/assets/130134750/5455a393-6b9f-473d-b845-fda8b21846dc)
 
 # 👷‍♂️About Me
-- University Graduated (16.02 ~ 23.02)
-- Mechanical Engineering Major
-- Studying Programming (22.12 ~ now)
+- 대학교 졸업 (16.02 ~ 23.02)
+- 기계공학(Mechanical Engineering) 전공
+- 프로그래밍 공부 중 (22.12 ~ now)
 
 # 🧰 Used Tools
 ### ⏫ Used Often
