@@ -2,4 +2,4 @@
 
 # 📱Connections
 - mail : neivekim76@gmail.com / nichijou52@naver.com
-- call : 010-2740-3581
+- call : +82) 010-2740-3581
