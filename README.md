@@ -1,4 +1,6 @@
-![profile](https://github.com/hooniegit/hooniegit/assets/130134750/5455a393-6b9f-473d-b845-fda8b21846dc)
+![profile](https://github.com/hooniegit/hooniegit/assets/130134750/01149229-2d5a-4f4f-84d3-80ef6447368e)
+
+
 
 # 👷‍♂️About Me
 - 대학교 졸업 (16.02 ~ 23.02)
