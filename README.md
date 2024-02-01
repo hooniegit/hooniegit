@@ -4,6 +4,7 @@
 - 대학교 졸업 (16.02 ~ 23.02)
 - 기계공학(Mechanical Engineering) 전공
 - 프로그래밍 공부 중 (22.12 ~ now)
+<br>
 
 # Experiences
 ### Programing Languages
@@ -21,6 +22,7 @@
 
 ### cloud
 - aws, gcp
+<br>
 
 # Connections
 - mail : hooniegit@gmail.com / nichijou52@naver.com
