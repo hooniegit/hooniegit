@@ -26,5 +26,5 @@
 <br>
 
 # Connections
-- mail : hooniegit@gmail.com / nichijou52@naver.com
+- mail : hooniegit@gmail.com / kimdh@watechnology.co.kr
 - call : +82) 010-2740-3581
