@@ -7,22 +7,8 @@
 - SW Engineer (22.12 ~ now)
 <br>
 
-# Experiences
-### Programing Languages
-- python, java, c#
-
-### OS
-- linux(ubuntu), windows, macos
-
-### SQL
-- mysql, postgresql, mssql
-
-### tools
-- spark, kafka, airflow, hadoop, hive
-- docker
-
-### cloud
-- aws, gcp
+# Programing Languages
+- .NET(Visual Basic, C#), Python
 <br>
 
 # Connections
