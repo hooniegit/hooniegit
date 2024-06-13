@@ -8,7 +8,7 @@
 <br>
 
 # Programing Languages
-- .NET(Visual Basic, C#), Python
+- .NET(Visual Basic, C#), JAVA, Python
 <br>
 
 # Connections
